@@ -84,7 +84,7 @@ http://www.tooplate.com/view/2106-soft-landing
 
   section {
     position: relative;
-    padding: 100px 0;
+    padding: 50px 0;
   }
 
   #contact,
@@ -97,7 +97,7 @@ http://www.tooplate.com/view/2106-soft-landing
     background: #536976;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    opacity: 0.5;
+    opacity: 0.4;
     position: absolute;
     top: 0;
     right: 0;
@@ -502,7 +502,7 @@ http://www.tooplate.com/view/2106-soft-landing
 
   .testimonial-info {
     background: #202020;
-    padding: 60px;
+    padding: 40px;
     height: 65vh;
   }
 
@@ -820,6 +820,6 @@ http://www.tooplate.com/view/2106-soft-landing
 
     .testimonial-image,
     .testimonial-info {
-      height: 65vh;
+      height: 85vh;
     }
   }
