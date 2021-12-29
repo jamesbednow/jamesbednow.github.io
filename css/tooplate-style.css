@@ -38,7 +38,7 @@ http://www.tooplate.com/view/2106-soft-landing
     color: #757575;
     font-size: 18px;
     font-weight: normal;
-    line-height: 24px;
+    line-height: 32px;
   }
 
 
@@ -493,7 +493,7 @@ http://www.tooplate.com/view/2106-soft-landing
     color: #ffffff;
   }
 
-  .profile-pic {
+  .testimonial-pic {
     background: url('../images/Profile_Pic/About.jpg') no-repeat center center;
     background-size: cover;
     width: 100%;
