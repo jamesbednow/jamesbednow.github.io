@@ -705,6 +705,14 @@ http://www.tooplate.com/view/2106-soft-landing
   margin-top: 25px;
 }
 
+.project-image4 {
+  background: url('../images/Sections/On-Badimaya-Country-project.JPG') no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 35vh;
+  margin-top: 25px;
+}
+
 
   /*---------------------------------------
       PRICING             
