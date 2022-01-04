@@ -815,6 +815,54 @@ http://www.tooplate.com/view/2106-soft-landing
   margin-top: 25px;
 }
 
+.project-image14 {
+  background: url('../images/Contact_Logos/email-icon.png') no-repeat ;
+  background-size: contain;
+  width: 100%;
+  height: 5vh;
+
+}
+
+.project-image15 {
+  background: url('../images/Contact_Logos/academia.jpg') no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 5vh;
+
+}
+
+.project-image16 {
+  background: url('../images/Contact_Logos/linkedin.png') no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 5vh;
+
+}
+
+.project-image17 {
+  background: url('../images/Contact_Logos/logo_ANU_university.png') no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 5vh;
+
+}
+
+.project-image18 {
+  background: url('../images/Contact_Logos/orcid_logo.png') no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 5vh;
+ 
+}
+
+.project-image19 {
+  background: url('../images/Contact_Logos/research_gate.png') no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 5vh;
+
+}
+
   /*---------------------------------------
       PRICING             
   -----------------------------------------*/
@@ -950,7 +998,7 @@ http://www.tooplate.com/view/2106-soft-landing
   -----------------------------------------*/
 
   .social-icon {
-    position: relative;
+    position: center;
     padding: 0;
     margin: 0;
   }
@@ -958,6 +1006,9 @@ http://www.tooplate.com/view/2106-soft-landing
   .social-icon li {
     display: inline-block;
     list-style: none;
+    padding: 50px;
+    position: center;
+  
   }
 
   .social-icon li a {
@@ -969,8 +1020,8 @@ http://www.tooplate.com/view/2106-soft-landing
     line-height: 35px;
     text-decoration: none;
     text-align: center;
-    position: relative;
-    margin: 5px 5px 5px 0;
+    position: center;
+    margin: 80px 80px 80px 0;
   }
 
   .social-icon li a:hover {
