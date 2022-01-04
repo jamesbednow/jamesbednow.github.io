@@ -800,20 +800,19 @@ http://www.tooplate.com/view/2106-soft-landing
 }
 
 .project-image12 {
-  background: url('../images/Sections/Teaching.JPG') no-repeat;
+  background: url('../images/Sections/Teaching.JPG') no-repeat center center;
   background-size: contain;
   width: 100%;
-  height: 15vh;
+  height: 45vh;
   margin-top: 25px;
 }
 
 .project-image13 {
-  background: url('../images/Profile_Pic/Presentations.jpg') no-repeat;
+  background: url('../images/Profile_Pic/Presentations.jpg') no-repeat center center;
   background-size: contain;
   width: 100%;
-  height: 15vh;
+  height: 45vh;
   margin-top: 25px;
-  align-items: center;
 }
 
   /*---------------------------------------
