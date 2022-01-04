@@ -34,6 +34,19 @@ http://www.tooplate.com/view/2106-soft-landing
     font-size: 2em;
   }
 
+  h3 {
+    font-style: italic;
+  }
+
+  /* h6 = photo captions */
+  h6 {
+    color: #757575;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    font-style: italic;
+  }
+
   p {
     color: #757575;
     font-size: 18px;
@@ -50,6 +63,13 @@ http://www.tooplate.com/view/2106-soft-landing
     line-height: 32px;
   }
   
+  ul {
+    color: #757575;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 32px;
+  }
+
  
 
 
@@ -62,7 +82,7 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   a {
-    color: #202020;
+    color: #0e65d6;
     text-decoration: none !important;
   }
 
