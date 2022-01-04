@@ -118,14 +118,12 @@
     
 
 <!-- About Me -->
-<br><br><br>
-
-<center><h1>About</h1></center>
-
-<br><br><br>
-
 <section id="aboutme" data-stellar-background-ratio="0.5">
      <div class="container">
+
+          <center><h1>About</h1></center>
+          <br><br><br>
+
           <div class="row">
               
 
@@ -161,7 +159,8 @@
           <div class="row">
                <center><h1>Research</h1></center>
                <br><br><br>
-</div>
+          </div>      
+
           <div class="row">
                <div class="col-sm-6 col-sm-6">
 
@@ -198,11 +197,14 @@
 
      <!-- Language Communities --------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<br><br><br>
-<center><h1>Language communities I work with</h1></center>
+
 
      <section id="languagecommunities" data-stellar-background-ratio="0.5">
           <div class="container">
+
+          <center><h1>Language communities I work with</h1></center>
+          <br><br><br>
+
                <div class="row">
                     <p>I work and do research with a number of communities in Mid-West Western Australia and north-east Arnhem Land 
                          (Northern Territory). In the Mid-West, I have worked with the Malgana, Ngarlawangga, Nhanda, Wajarri, Warriyangka, 
@@ -258,13 +260,15 @@
 
 
 
-<!-- Projects -->
-<br><br><br>
-<center><h1>Projects</h1></center>
+<!-- Projects ----------------------------------------------------------------------------------->
 
 <section id="projects" data-stellar-background-ratio="0.5">
 
      <div class="container">
+
+          <center><h1>Projects</h1></center>
+          <br><br><br>
+
           <p>Over the last decade I have worked on a number of significant research projects, delivering outcomes to both academic and 
                community sectors.</p>  <br><br>
 <!------------------------------------------------------------------------------------ PROJECT 1 -->
@@ -500,10 +504,13 @@
 
 
      <!-- Publications ---------------------------------------------------------------------------------------------------------->
-     <br><br><br>
-<center><h1>Publications</h1></center>
+ 
      <section id="publications" data-stellar-background-ratio="0.5">
           <div class="container">
+           
+               <center><h1>Publications</h1></center>
+               <br><br><br>
+
                <div class="row">
                     <div class="container-fluid">
                          <p>If you would like a copy of something that is not available here, please <a href="mailto:james.bednall@anu.edu.au">email me</a>.</p>
@@ -614,11 +621,13 @@
 
 
 <!-- Presentations ---------------------------------------------------------------------------------------------------------->
-<br><br><br>
-<center><h1>Presentations</h1></center>
 
      <section id="presentations" data-stellar-background-ratio="0.5">
           <div class="container">
+
+               <center><h1>Presentations</h1></center>
+               <br><br><br>
+
                <div class="row">
                     <div class="container-fluid">
 
@@ -805,22 +814,24 @@
                     <div class="col-md-offset-1 col-md-10 col-sm-12">
                          <form id="contact-form" role="form" action="" method="post">
                               <div class="section-title">
-                                   <h1>Say hello to us</h1>
+                                   <h1>Contact</h1>
                               </div>
 
-                              <div class="col-md-4 col-sm-4">
-                                   <input type="text" class="form-control" placeholder="Full name" name="name" required>
-                              </div>
-                              <div class="col-md-4 col-sm-4">
-                                   <input type="email" class="form-control" placeholder="Email address" name="email" required>
-                              </div>
-                              <div class="col-md-4 col-sm-4">
-                                   <input type="submit" class="form-control" name="send message" value="Send Message">
-                              </div>
-                              <div class="col-md-12 col-sm-12">
-                                   <textarea class="form-control" rows="8" placeholder="Your message" name="message" required></textarea>
-                              </div>
-                         </form>
+                              <form
+                              action="https://formspree.io/f/mknpqjeb"
+                              method="POST"
+                            >
+                              <label>
+                                Your email:
+                                <input type="email" name="_replyto">
+                              </label>
+                              <label>
+                                Your message:
+                                <textarea name="message"></textarea>
+                              </label>
+                              <!-- your other form fields go here -->
+                              <button type="submit">Send</button>
+                            </form>
                     </div>
 
                </div>
