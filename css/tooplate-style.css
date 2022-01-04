@@ -799,6 +799,22 @@ http://www.tooplate.com/view/2106-soft-landing
   margin-top: 25px;
 }
 
+.project-image12 {
+  background: url('../images/Sections/Teaching.JPG') no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 15vh;
+  margin-top: 25px;
+}
+
+.project-image13 {
+  background: url('../images/Profile_Pic/Presentations.jpg') no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 15vh;
+  margin-top: 25px;
+  align-items: center;
+}
 
   /*---------------------------------------
       PRICING             
