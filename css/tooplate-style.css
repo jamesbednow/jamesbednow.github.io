@@ -342,6 +342,95 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
 
+/*---------------------------------------
+      MENU 2 !!!!!  FOR ANYDILIAKWA AND BADIMAYA PAGES  
+  -----------------------------------------*/
+
+  .custom-navbar2 {
+    border: none;
+    margin-bottom: 0;
+    padding: 25px 0;
+  }
+
+  .custom-navbar2 .navbar-brand {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: -1px;
+    margin-top: 27px; /* DELETE THIS IF YOU GET ANY PROBLEM */
+  }
+
+  .top-nav-collapse {
+    background: #ffffff;
+  }
+
+  .custom-navbar2 .navbar-nav {
+    margin-left: 0em;
+  }
+
+  .custom-navbar2 .nav li a {
+    font-size: 16px;
+    font-weight: normal;
+    color: #f0f0f0;
+    padding-right: 10px;
+    padding-left: 12px;
+  }
+
+  .custom-navbar2 .nav li a:hover {
+    background: white;
+    color: #29ca8e;
+  }
+
+  .custom-navbar2 .navbar-nav > li > a:hover,
+  .custom-navbar2 .navbar-nav > li > a:focus {
+    background-color: transparent;
+  }
+
+  .custom-navbar2 .nav li.active > a {
+    background-color: transparent;
+    color: #29ca8e;
+  }
+
+  .custom-navbar2 .navbar-toggle {
+    border: none;
+    padding-top: 0px;
+  }
+
+  .custom-navbar2 .navbar-toggle {
+    background-color: transparent;
+  }
+
+  .custom-navbar2 .navbar-toggle .icon-bar {
+    background: #29ca8e;
+    border-color: transparent;
+  }
+
+  @media(min-width:768px) {
+    .custom-navbar2 {
+      border-bottom: 0;
+      background: 0 0; 
+    }
+
+    .custom-navbar2.top-nav-collapse {
+      background: #ffffff;
+      -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
+      -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
+      padding: 10px 0;
+    }
+
+    .top-nav-collapse .navbar-brand {
+      color: #252525;
+    }
+
+    .top-nav-collapse .nav li a {
+      color: #575757;
+    }
+
+    .top-nav-collapse .nav .section-btn a {
+      color: #ffffff;
+    }
+  }
 
 
 
