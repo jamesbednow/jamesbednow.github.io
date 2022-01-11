@@ -301,7 +301,7 @@ http://www.tooplate.com/view/2106-soft-landing
 
   .custom-navbar .navbar-toggle {
     border: none;
-    padding-top: 0px;
+    padding-top: 10px;
   }
 
   .custom-navbar .navbar-toggle {
@@ -324,7 +324,7 @@ http://www.tooplate.com/view/2106-soft-landing
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
-      padding: px 0;
+      padding: 10px 0;
     }
 
     .top-nav-collapse .navbar-brand {
