@@ -259,7 +259,6 @@ http://www.tooplate.com/view/2106-soft-landing
     border: none;
     margin-bottom: 0;
     padding: 25px 0;
-    margin-top: 27px; /* DELETE THIS IF YOU GET ANY PROBLEM */
   }
 
   .custom-navbar .navbar-brand {
@@ -267,6 +266,7 @@ http://www.tooplate.com/view/2106-soft-landing
     font-size: 25px;
     font-weight: 500;
     letter-spacing: -1px;
+    margin-top: 27px; /* DELETE THIS IF YOU GET ANY PROBLEM */
   }
 
   .top-nav-collapse {
