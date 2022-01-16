@@ -350,7 +350,7 @@ http://www.tooplate.com/view/2106-soft-landing
     border: none;
     margin-bottom: 0;
     padding: 25px 0;
-    margin-top: -30px;
+    
   }
 
   .custom-navbar2 .navbar-brand {
@@ -417,7 +417,7 @@ http://www.tooplate.com/view/2106-soft-landing
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
-      padding: 10px 0;
+      padding: 20px 0;
     }
 
     .top-nav-collapse .navbar-brand {
@@ -921,9 +921,9 @@ http://www.tooplate.com/view/2106-soft-landing
 .project-image4 {
   background: url('../images/Sections/On-Badimaya-Country-project.JPG') no-repeat;
   background-size: cover;
-  width: 100%;
-  height: 350px;
-  margin-top: 25px;
+    width: 100%;
+    height: 350px;
+    margin-top: 25px; 
 }
 
 .project-image5 {
