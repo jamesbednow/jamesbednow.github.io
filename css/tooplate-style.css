@@ -912,7 +912,7 @@ http://www.tooplate.com/view/2106-soft-landing
 
 .project-image3 {
   background: url('../images/Sections/Badimaya-dictionary-project.JPG') no-repeat;
-  background-size: cover;
+  background-size: cover; 
   width: 100%;
   height: 350px;
   margin-top: 25px;
