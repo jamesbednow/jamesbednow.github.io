@@ -325,7 +325,7 @@ http://www.tooplate.com/view/2106-soft-landing
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
-      padding: 30px 0;
+      padding: 20px 0;
     }
 
     .top-nav-collapse .navbar-brand {
@@ -913,7 +913,7 @@ http://www.tooplate.com/view/2106-soft-landing
   background: url('../images/Sections/Badimaya-dictionary-project.JPG') no-repeat;
   background-size: cover;
   width: 100%;
-  height: 35vh;
+  height: 350px;
   margin-top: 25px;
 }
 
@@ -1110,7 +1110,7 @@ http://www.tooplate.com/view/2106-soft-landing
 
   .pricing-bottom {
     height: 8vh;
-    margin: auto;
+    margin: 0 auto;
 
     width: 42%;
     padding: 30px;
@@ -1365,3 +1365,107 @@ http://www.tooplate.com/view/2106-soft-landing
       height: 85vh;
     }
   }
+
+  @media screen and (max-width: 1500px) {
+    .research-image{
+      height: 320px !important;
+    }
+  }
+
+  @media screen and (max-width: 990px) {
+  .project-image1{
+    height: 210px !important;
+  }
+  .research-image{
+    height: 250px !important;
+  }
+  .pricing-info{
+    /* height: 250px !important; */
+  }
+  }
+  @media screen and (max-width: 770px) {
+    .research-image{
+      height: 400px !important;
+    }
+  }
+  @media screen and (max-width: 550px) {
+    .research-image{
+      height: 300px !important;
+    }
+  }
+  @media screen and (max-width: 420px) {
+    .research-image{
+      height: 220px !important;
+    }
+  }
+  .bullet li{
+    list-style: disc;
+  }
+  .pad-40{
+    padding: 40px 0;
+  }
+  @media screen and (max-width: 1200px) {
+  .pricing-bottom{
+    padding: 30px 0px;
+  }
+  }
+  @media screen and (max-width: 760px) {
+    .custom-navbar .navbar-brand{
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 560px) {
+.social-icon li{
+  padding: 30px;
+}
+}
+@media screen and (max-width: 460px) {
+  .social-icon li{
+    padding: 20px;
+  }
+  }
+  @media screen and (max-width: 400px) {
+    .social-icon li{
+      padding: 8px;
+    }
+    }
+    @media screen and (max-width: 330px) {
+      .social-icon li{
+        padding: 4px;
+      }
+      }
+      @media screen and (max-width: 1000px) {
+        .pad-40{
+          padding: 0px;
+        }
+        }
+        @media screen and (max-width: 1135px) {
+          .project-image3{
+            height: 45vh !important;
+          }
+          }
+          @media screen and (max-width: 1110px) {
+            .project-image3{
+              height: 350px !important;
+            }
+            }
+            @media screen and (max-width: 960px) {
+              .project-image3{
+                height: 250px !important;
+              }
+              }
+              @media screen and (max-width: 770px) {
+                .project-image3{
+                  height: 450px !important;
+                }
+                }
+                @media screen and (max-width: 630px) {
+                  .project-image3{
+                    height: 350px !important;
+                  }
+                  }
+                @media screen and (max-width: 490px) {
+                  .project-image3{
+                    height: 35vh !important;
+                  }
+                  }
