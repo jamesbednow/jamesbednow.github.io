@@ -1375,9 +1375,18 @@ http://www.tooplate.com/view/2106-soft-landing
   .project-image1{
     height: 210px !important;
   }
-  .research-image{
+  
+  @media screen and (max-width: 990px) and (min-width: 770px) {
+    .project-image4{
     height: 250px !important;
-  }
+    }
+    
+    }
+    @media screen and (max-width: 990px) and (min-width: 640px) {
+    .testimonial-image{
+    height: 130vh;
+    }
+
   .pricing-info{
     /* height: 250px !important; */
   }
