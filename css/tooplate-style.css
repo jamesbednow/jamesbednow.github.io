@@ -1112,12 +1112,10 @@ http://www.tooplate.com/view/2106-soft-landing
   .pricing-bottom {
     height: 8vh;
     margin: 0 auto;
-
-    width: 42%;
+    text-align: center;
+    /* width: 42%; */
     padding: 30px;
-  
-    
-  }
+    }
 
   .pricing-bottom span {
     font-size: 20px;
