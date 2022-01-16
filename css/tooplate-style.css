@@ -566,21 +566,11 @@ http://www.tooplate.com/view/2106-soft-landing
   -----------------------------------------*/
 
   #research {
-    background: url('../images/Sections/Research.JPG') no-repeat center center;
+    background: url('../images/Sections/Research.JPG') no-repeat;
     background-size: cover;
-    vertical-align: middle;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-    min-height: 100vh;
-    position: relative;
-    padding-top: 12em;
-    text-align: left;
+    width: 100%;
+    height: 350px;
+    margin-top: 25px;
   }
 
 
@@ -773,7 +763,8 @@ http://www.tooplate.com/view/2106-soft-landing
     background: url('../images/Profile_Pic/About.jpg') no-repeat center center;
     background-size: cover;
     width: 100%;
-    height: 65vh;
+    height: 350vh;
+    margin-top: 25px;
   }
 
 
@@ -897,7 +888,7 @@ http://www.tooplate.com/view/2106-soft-landing
   background: url('../images/Sections/TAM-in-Anindilyakwa-project.jpg') no-repeat;
   background-size: cover;
   width: 100%;
-  height: 35vh;
+  height: 350px;
   margin-top: 25px;
 }
 
@@ -905,7 +896,7 @@ http://www.tooplate.com/view/2106-soft-landing
   background: url('../images/Sections/Nganang-Badimaya-Wangga-project.jpg') no-repeat;
   background-size: cover;
   width: 100%;
-  height: 35vh;
+  height: 350px;
   margin-top: 25px;
 }
 
@@ -921,7 +912,7 @@ http://www.tooplate.com/view/2106-soft-landing
   background: url('../images/Sections/On-Badimaya-Country-project.JPG') no-repeat;
   background-size: cover;
   width: 100%;
-  height: 35vh;
+  height: 350px;
   margin-top: 25px;
 }
 
