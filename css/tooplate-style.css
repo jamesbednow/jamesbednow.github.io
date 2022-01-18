@@ -1227,6 +1227,13 @@ http://www.tooplate.com/view/2106-soft-landing
     color: #ffffff;
   }
 
+  /*---------------------------------------
+     Bullet point for certain sections             
+  -----------------------------------------*/
+
+  .bullet li{
+    list-style: disc;
+  }
 
 
 
