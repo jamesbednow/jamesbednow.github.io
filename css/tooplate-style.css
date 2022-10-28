@@ -1004,7 +1004,7 @@ http://www.tooplate.com/view/2106-soft-landing
   background: url('../images/Contact_Logos/email-icon.png') no-repeat ;
   background-size: contain;
   width: 100%;
-  height: 5vh;
+  height: 8vh;
 
 }
 
@@ -1012,7 +1012,7 @@ http://www.tooplate.com/view/2106-soft-landing
   background: url('../images/Contact_Logos/academia.jpg') no-repeat;
   background-size: contain;
   width: 100%;
-  height: 5vh;
+  height: 8vh;
 
 }
 
@@ -1020,7 +1020,7 @@ http://www.tooplate.com/view/2106-soft-landing
   background: url('../images/Contact_Logos/linkedin.png') no-repeat;
   background-size: contain;
   width: 100%;
-  height: 5vh;
+  height: 8vh;
 
 }
 
@@ -1028,7 +1028,7 @@ http://www.tooplate.com/view/2106-soft-landing
   background: url('../images/Contact_Logos/logo_ANU_university.png') no-repeat;
   background-size: contain;
   width: 100%;
-  height: 5vh;
+  height: 8vh;
 
 }
 
@@ -1036,7 +1036,7 @@ http://www.tooplate.com/view/2106-soft-landing
   background: url('../images/Contact_Logos/orcid_logo.png') no-repeat;
   background-size: contain;
   width: 100%;
-  height: 5vh;
+  height: 8vh;
  
 }
 
@@ -1044,7 +1044,7 @@ http://www.tooplate.com/view/2106-soft-landing
   background: url('../images/Contact_Logos/research_gate.png') no-repeat;
   background-size: contain;
   width: 100%;
-  height: 5vh;
+  height: 8vh;
 
 }
 
@@ -1074,11 +1074,10 @@ http://www.tooplate.com/view/2106-soft-landing
 
 
 .project-image23 {
-  background: url('../images/Contact_Logos/project-image23.png') no-repeat;
-  background-size: cover;
+  background: url('../images/Contact_Logos/google_scholar_icon.png') no-repeat;
+  background-size: contain;
   width: 100%;
-  height: 350px;
-  margin-top: 25px;
+  height: 8vh;
 }
 
   /*---------------------------------------
