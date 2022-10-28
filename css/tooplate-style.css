@@ -1072,6 +1072,15 @@ http://www.tooplate.com/view/2106-soft-landing
   margin-top: 25px;
 }
 
+
+.project-image23 {
+  background: url('../images/Sections/project-image0.jpg') no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 350px;
+  margin-top: 25px;
+}
+
   /*---------------------------------------
       PRICING             
   -----------------------------------------*/
